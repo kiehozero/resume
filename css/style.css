@@ -7,6 +7,10 @@
     color: white;
 }
 
+.bg-color-three-reasons {
+    background-color: #ffffff;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -186,4 +190,23 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/* Three Reasons */
+
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
