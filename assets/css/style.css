@@ -58,7 +58,7 @@ header {
 }
 
 .logo {
-    background: url("../assets/images/stuart.JPG");
+    background: url("../images/stuart.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -217,7 +217,7 @@ footer {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #9b5999;
+    color: #e67e22;
 }
 
 .three-reasons-heading {
@@ -267,6 +267,11 @@ footer {
 
 .progress-bar {
     background-color: #9b5999;
+}
+
+.resume-icon {
+    font-size: 26px;
+    color: #9b5999;
 }
 
 .progress-type {
