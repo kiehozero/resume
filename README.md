@@ -1,5 +1,6 @@
 Welcome to my resume mini-project. Built using the Code Institute student template for Gitpod, I've followed the course instructional videos to create a basic resume that combined my previous work experience with my overall course experience. As the course continues I'll update my progress as well as include a gallery and links to some of my Gitpod projects.
 
+--------
 
 ## To do
 
@@ -9,7 +10,11 @@ Welcome to my resume mini-project. Built using the Code Institute student templa
 
 [ ] I'm toying with the idea of changing the progress bar colour scheme to match those of the official programming language logos.
 
-[ ] Hide the Contact Info box when contact.html displays on a mobile device.
+[ ] My name and role description need centring when they display on a mobile device
+
+[x] Hide the Contact Info box when contact.html displays on a mobile device.
+
+--------
 
 ## Version Control
 
