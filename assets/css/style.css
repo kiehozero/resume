@@ -23,6 +23,10 @@
     background-color: #d3b50f;
 }
 
+.bg-color-contact-right {
+    background-color: #ffffff;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -216,7 +220,7 @@ footer {
     float: none;
 }
 
-.history-heading, .section-heading {
+.history-heading, .section-heading, .personal-info-heading {
     font-family: 'Exo 2', sans-serif;
     font-weight: 300;
     margin-top: 20px;
@@ -240,6 +244,10 @@ footer {
     margin-bottom: 20px;
 }
 
+.personal-info-heading {
+    color: #ffffff;
+}
+
 .personal-info-item .value, .personal-info-item .key {
     padding-right: 8px;
     display: inline-block;
@@ -258,11 +266,13 @@ footer {
 
 .personal-info-item .key p {
     font-weight: 700;
+    color: #ffffff;
 }
 
 .personal-info-item .value {
     position: relative;
     width: 60%;
+    color: #ffffff;
 }
 
 /* Skills */
@@ -345,6 +355,33 @@ footer {
 
 /* Contact */
 
-.contact-left {
-    color: #525252;
+.contact-heading {
+    font-family: 'Exo 2', san-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #d3b50f;
+}
+
+/* Media Queries */
+
+@media(min-width: 992px) {
+    .center-form {
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+    }
 }

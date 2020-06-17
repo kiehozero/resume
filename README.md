@@ -3,11 +3,13 @@ Welcome to my resume mini-project. Built using the Code Institute student templa
 
 ## To do
 
-* I've yet to add in a list of courses I'm currently subscribed to on CodeAcademy, FutureLearn and Udemy.
+[ ] I've yet to add in a list of courses I'm currently subscribed to on CodeAcademy, FutureLearn and Udemy.
 
-* I've not firmed up the colour scheme I'd like the overall website to have. I'll stick to four colours, but there' quite a bit of Bootstrap overriding and class additions that I'll need to do.
+[ ] I've not firmed up the colour scheme I'd like the overall website to have. I'll stick to four colours, but there' quite a bit of Bootstrap overriding and class additions that I'll need to do.
 
-* I'm toying with the idea of changing the progress bar colour scheme to match those of the official programming language logos.
+[ ] I'm toying with the idea of changing the progress bar colour scheme to match those of the official programming language logos.
+
+[ ] Hide the Contact Info box when contact.html displays on a mobile device.
 
 ## Version Control
 
