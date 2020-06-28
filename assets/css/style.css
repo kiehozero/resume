@@ -266,10 +266,21 @@ footer {
 
 .personal-info-item .key p {
     font-weight: 700;
-    color: #ffffff;
+    color: #000000;
 }
 
 .personal-info-item .value {
+    position: relative;
+    width: 60%;
+    color: #000000;
+}
+
+.personal-info-contact .key p {
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.personal-info-contact .value {
     position: relative;
     width: 60%;
     color: #ffffff;
