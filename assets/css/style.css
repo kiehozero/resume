@@ -36,11 +36,19 @@
 }
 
 .ui-menu-color-contact {
-    background-color: #d3b50f;
+    background-color: #0f33d3;
 }
 
 .ui-menu-color-download {
     background-color: #0d5606;
+}
+
+.ui-menu-color-interests {
+    background-color: #e24545;
+}
+
+.ui-menu-color-github {
+    background-color: #b8bd25;
 }
 
 /* Paddings and Text */
