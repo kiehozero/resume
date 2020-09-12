@@ -25,16 +25,8 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css"
         type="text/css"
     />
-    <script
-		src="https://code.jquery.com/jquery-3.5.1.js"
-		integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
-		crossorigin="anonymous">
-    </script>
-    <script
-        type="text/javascript"
-        src="assets/scripts/github.js">
-    </script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="assets/scripts/github.js"></script>
 
   </head>
 
@@ -95,7 +87,7 @@
             </div>
 
             <div class="center-form">
-                <input type="text" id="gh-username" value="octocat" oninput="fetchGitHubInformation()"></input>
+                <input type="text" id="gh-username" value="octocat" oninput="fetchGitHubInformation()"/>
                 <div id="gh-user-data"></div>
                 <div id="gh-repo-data"></div>
             </div>
