@@ -10,7 +10,9 @@ Welcome to my resume mini-project. Built using the Code Institute student templa
 
 [ ] I'm toying with the idea of changing the progress bar colour scheme to match those of the official programming language logos.
 
-[ ] My name and role description need centring when they display on a mobile device
+[ ] My name and role description need centring when they display on a mobile device.
+
+[ ] I'm going to personalise the content on the Interests pages from the initial tutorial content.
 
 [x] Hide the Contact Info box when contact.html displays on a mobile device.
 
